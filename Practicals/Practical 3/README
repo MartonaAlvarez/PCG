@@ -1,7 +1,0 @@
-In this practical session we will learn and work on the most important steps of a phylogenetic reconstruction pipeline. The pipeline we will work with consists of three main steps: 
-
-1) multiple sequence alignment, 
-2) alignment trimming, and 
-3) phylogenetic inference. 
-
-The outcome of this methodological pipeline is a phylogenetic tree which we will be able to inspect to assess its robustness and the phylogenetic relationships between the sequences represented.
